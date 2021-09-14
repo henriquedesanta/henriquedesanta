@@ -1,7 +1,7 @@
 ##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> string{HelloWorld!}
 
 - 🙋‍♂️ I'm Henrique
-- 💻 Currently learning C#, .NET and HTML(CSS, JS)
+- 💻 Currently learning C#, .NET and HTML (CSS, JS)
 - 🏡 Live in Brazil
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedesanta&show_icons=true&theme=dark)
@@ -21,7 +21,7 @@
   </div>
 
   <br><br>
-  <img src="https://github.com/henriquedesanta/henriquedesanta/blob/main/KK4u.gif" alt="Saturn" width="350">
+  <img src="https://github.com/henriquedesanta/henriquedesanta/blob/main/saturn.gif" alt="Saturn" width="500">
   
  
 
