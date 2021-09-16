@@ -4,7 +4,14 @@
 - 💻 Currently learning C#, .NET and HTML (CSS, JS)
 - 🏡 Live in Brazil
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedesanta&show_icons=true&theme=dark)
+![henriquedesanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedesanta&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact&theme=dark)](https://github.com/henriquedesanta/github-readme-stats)
+
+
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
