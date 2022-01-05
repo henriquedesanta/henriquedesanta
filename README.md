@@ -4,14 +4,14 @@
 - 💻 Currently learning C#, .NET and HTML (CSS, JS)
 - 🏡 Live in Brazil
 
+
+<br>
 <a href="https://github.com/henriquedesanta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&theme=dark&hide_langs_below=1" />
 </a>
-
-
-
-
-
+<a href="https://github.com/TheDudeThatCode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
 
 
 
