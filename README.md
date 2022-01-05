@@ -7,7 +7,7 @@
 <a href="https://github.com/henriquedesanta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&theme=dark&hide_langs_below=1" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact&theme=dark)](https://github.com/henriquedesanta/github-readme-stats)
+
 
 
 
