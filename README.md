@@ -4,7 +4,9 @@
 - 💻 Currently learning C#, .NET and HTML (CSS, JS)
 - 🏡 Live in Brazil
 
-[![henriquedesanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedesanta)](https://github.com/henriquedesanta/github-readme-stats&show_icons=true&theme=radical)
+<a href="https://github.com/henriquedesanta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&theme=dark&hide_langs_below=1" />
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact&theme=dark)](https://github.com/henriquedesanta/github-readme-stats)
 
 
