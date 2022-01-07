@@ -1,13 +1,13 @@
 <div style="align: center">
 
 ##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> string{HelloWorld!}
-
+<br>
+  
   <div>🙋‍♂️ I'm Henrique</div>  
   <div "style=margin-left:5px">💻 Currently learning C#, .NET, HTML, CSS, PHP</div>
   <div>🏡 Live in Brazil</div>
 
-
-<br><br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact&theme=dark)
 ![HenriqueDeSanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedesanta&show_icons=true&theme=dark&hide=stars&hide_title=1)
