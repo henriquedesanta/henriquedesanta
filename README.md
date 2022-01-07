@@ -1,7 +1,7 @@
 ##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> string{HelloWorld!}
 
 - 🙋‍♂️ I'm Henrique
-- 💻 Currently learning C#, .NET and HTML (CSS, JS)
+- 💻 Currently learning C#, .NET, HTML, CSS, PHP
 - 🏡 Live in Brazil
 
 
@@ -20,7 +20,7 @@
   <img align="center" alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  
   
   # Connect with me 
