@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact&theme=dark)
 ![HenriqueDeSanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedesanta&show_icons=true&theme=dark&hide=stars&hide_title=1)
-<br>
+<br><br>
 
 
 <div style="display: inline_block"><br>
