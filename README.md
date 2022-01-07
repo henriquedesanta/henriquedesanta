@@ -2,7 +2,7 @@
 
 ##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> string{HelloWorld!}
 
-🙋‍♂️ I'm Henrique            💻 Currently learning C#, .NET, HTML, CSS, PHP          🏡 Live in Brazil
+🙋‍♂️ I'm Henrique       |     💻 Currently learning C#, .NET, HTML, CSS, PHP      |     🏡 Live in Brazil
 
 
 
