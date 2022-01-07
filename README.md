@@ -1,3 +1,5 @@
+<div style="align-itens: center">
+
 ##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> string{HelloWorld!}
 
 - 🙋‍♂️ I'm Henrique
@@ -18,9 +20,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+ 
  
   
   # Connect with me 
@@ -32,6 +35,6 @@
   <br><br>
   <img src="https://github.com/henriquedesanta/henriquedesanta/blob/main/saturn.gif" alt="Saturn" width="500">
   
- 
+  </div>
 
   
