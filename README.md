@@ -7,7 +7,7 @@
 - 🏡 Live in Brazil
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact)](https://github.com/henriquedesanta/github-readme-stats&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedesanta&layout=compact)](https://github.com/henriquedesanta/github-readme-stats&theme=dark)
 <a href="https://github.com/henriquedesanta">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquedesanta&show_icons=true&theme=dark&line_height=27" alt="henriquedesanta's github stats"/>
 </a>
