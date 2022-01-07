@@ -1,4 +1,4 @@
-<div style="justify-content: center">
+<div style="align: center">
 
 ##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> string{HelloWorld!}
 
