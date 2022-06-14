@@ -1,6 +1,6 @@
 <div style="align: center">
 
-##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="20px"> string{HelloWorld!}
+##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="30px"> string{HelloWorld!}
 
   <div>🙋‍♂️ I'm Henrique</div>  
   <div "style=margin-left:5px">💻 Currently learning C#, .NET, HTML, CSS, PHP</div>
